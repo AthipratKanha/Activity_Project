@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;  
+  }
+  
+  .Navbar {
+    display: flex;
+    justify-content: right;
+    padding: 25px 48px;
+    color: #10454f;
+    background-color: #C9F2E7;
+  }
+  
+  .navbar_menu {
+    margin-right: 25px;
+    text-align: right;
+  }
+  
+  
+  
+  
